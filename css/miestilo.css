@@ -36,3 +36,13 @@ address {
     margin-top: 1em;
     padding-top: 1em;
     border-top: thin dotted;}
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+td,th{
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+}
